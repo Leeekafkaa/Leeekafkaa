@@ -1,8 +1,8 @@
 ### Hi there 👋
 It's Yass from Morocco 🇲🇦
 
-.🌱 I’m currently learning more about Php and Laravel Framework.
-.💬 Goals to achieve by 08/2022: being able to build laravel application.
+-🌱 I’m currently learning more about Php and Laravel Framework.
+-💬 Goals to achieve by 08/2022: being able to build laravel application.
 
 
 <!--

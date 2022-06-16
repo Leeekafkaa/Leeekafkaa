@@ -1,5 +1,10 @@
 ### Hi there 👋
 It's Yass from Morocco 🇲🇦
+
+🌱 I’m currently learning more about Php and Laravel Framework.
+💬 Goals to achieve by 08/2022: being able to build laravel application.
+
+
 <!--
 **Leeekafkaa/Leeekafkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
